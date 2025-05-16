@@ -3,3 +3,27 @@ Precision:   0.935
 Recall:      0.922
 Specificity: 0.992
 F1 score:    0.928
+
+Accuracy:    0.926
+Precision:   0.934
+Recall:      0.926
+Specificity: 0.991
+F1 score:    0.929
+
+Accuracy:    0.922
+Precision:   0.930
+Recall:      0.922
+Specificity: 0.991
+F1 score:    0.925
+
+Accuracy:    0.921
+Precision:   0.938
+Recall:      0.921
+Specificity: 0.992
+F1 score:    0.929
+
+Accuracy:    0.921
+Precision:   0.930
+Recall:      0.921
+Specificity: 0.990
+F1 score:    0.925
